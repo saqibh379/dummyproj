@@ -1,0 +1,2 @@
+# dummyproj
+Skills oriented program
